@@ -768,7 +768,7 @@ p:first-child {
   left: 0;
 }
 @media (max-width: 768px) {
-  .imgBio.tr, .imgBio.tatoo-master {
+  .imgBio.tr {
     top: 0px;
     height: fit-content;
   }
